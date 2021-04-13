@@ -1,0 +1,31 @@
+.list{
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form{
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form{
+  max-width: 300px;
+  margin: auto;
+}
+
+#Footer{
+background-color: rgb(120, 120, 120);
+color:white;
+text-align: center;
+}
+
+#Arrow_Up{
+  color: white;
+  font-size:20px;
+}
+
+.ListItem{
+ text-align: center;
+ background-color: aqua;
+}
